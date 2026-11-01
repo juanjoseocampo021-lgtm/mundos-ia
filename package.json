@@ -1,0 +1,22 @@
+{
+  "name": "mundos-ia",
+  "version": "1.0.0",
+  "description": "Programa de consola que convierte una situación, un mundo y 5 colores en una imagen usando una API de texto y una API de imágenes.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "node",
+    "ia",
+    "fetch",
+    "imagenes",
+    "mundos-imaginarios",
+    "sena"
+  ],
+  "author": "juan jose ocampo arteaga",
+  "license": "ISC",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
